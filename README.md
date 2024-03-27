@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/slack-black?style=flat&logo=Amazon%20S3&logoColor=4A154B"/>
 </div>
 
-<div display:flex>
+<div style="display:flex">
 ![Jaewoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjw0324&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjw0324&layout=compact&theme=tokyonight)
 </div>
