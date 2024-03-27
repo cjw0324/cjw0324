@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=Jaewoo's%20GitHub&fontSize=90&fontColor=111111)
 
+<hr/>
+
 <div>
 <img src="https://img.shields.io/badge/react-black?style=flat&logo=React&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/python-black?style=flat&logo=Python&logoColor=3776AB"/>
@@ -19,13 +21,12 @@
 <img src="https://img.shields.io/badge/slack-black?style=flat&logo=Amazon%20S3&logoColor=4A154B"/>
 </div>
 
+<hr/>
+
 <div>
-  <style>
-    p{
-      display : flex;
-    }
-  </style>
 ![Jaewoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjw0324&show_icons=true&theme=tokyonight)
+</div>
+<div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjw0324&layout=compact&theme=tokyonight)
 </div>
 
