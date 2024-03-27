@@ -23,11 +23,12 @@
 
 <hr/>
 
-<div>
+<div align='center'>
+
+
 ![Jaewoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjw0324&show_icons=true&theme=tokyonight)
-</div>
-<div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjw0324&layout=compact&theme=tokyonight)
-</div>
+
 
 </div>
