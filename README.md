@@ -1,3 +1,4 @@
+![snake gif](https://github.com/cjw0324/cjw0324/blob/output/github-contribution-grid-snake.svg)
 <div align='center'>
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=Jaewoo's%20GitHub&fontSize=90&fontColor=111111)
