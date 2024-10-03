@@ -5,11 +5,11 @@
 <hr/>
 
 <div>
+<img src="https://img.shields.io/badge/spring-black?style=flat&logo=Spring&logoColor=6DB33F"/>
 <img src="https://img.shields.io/badge/react-black?style=flat&logo=React&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/python-black?style=flat&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/javascript-black?style=flat&logo=Javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/flask-white?style=flat&logo=Flask&logoColor=000000"/>
-<img src="https://img.shields.io/badge/spring-black?style=flat&logo=Spring&logoColor=6DB33F"/>
 </div>
 <div>
 <img src="https://img.shields.io/badge/django-black?style=flat&logo=Django&logoColor=092E20"/>
