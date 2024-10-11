@@ -18,7 +18,6 @@
 <img src="https://img.shields.io/badge/javascript-black?style=flat&logo=Javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/flask-white?style=flat&logo=Flask&logoColor=000000"/>
 </div>
----
 <div>
 <img src="https://img.shields.io/badge/django-black?style=flat&logo=Django&logoColor=092E20"/>
 <img src="https://img.shields.io/badge/html5-black?style=flat&logo=HTML5&logoColor=E34F26"/>
@@ -28,7 +27,6 @@
 <img src="https://img.shields.io/badge/mysql-black?style=flat&logo=MySQL%20S3&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/slack-black?style=flat&logo=Amazon%20S3&logoColor=4A154B"/>
 </div>
----
 <hr/>
 
 <div align='center'>
