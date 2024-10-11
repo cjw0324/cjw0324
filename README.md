@@ -1,6 +1,10 @@
 <div align='center'>
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=Jaewoo's%20GitHub&fontSize=90&fontColor=111111)
+<script>
+  const isDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  const fontColor = isDarkMode ? 'ffffff' : '111111';
+  document.write(`<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=Jaewoo's%20GitHub&fontSize=90&fontColor=${fontColor}"/>`);
+</script>
 
 <hr/>
 
