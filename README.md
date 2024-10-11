@@ -4,6 +4,15 @@
 
 <hr/>
 
+### 👋 About Me
+
+- 끝까지 포기하지 않는 개발자 되기
+- 궁금한 것, 모르는 것은 반드시 알고 넘어가기
+- 매일매일 꾸준히 노력하는 개발자 되기
+- 깔끔한 코드가 무엇인지 항상 고민하기
+
+<hr/>
+
 ### 📌 Project Experience
 
 | When           | Where                          | What                             | GitHub Link                                               | Role          |
