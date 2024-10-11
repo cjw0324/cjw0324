@@ -1,10 +1,6 @@
-<div align='center'>
+<div align='center' style='background-color: #ffffff;'>
 
-<script>
-  const isDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-  const fontColor = isDarkMode ? 'ffffff' : '111111';
-  document.write(`<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=Jaewoo's%20GitHub&fontSize=90&fontColor=${fontColor}"/>`);
-</script>
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=Jaewoo's%20GitHub&fontSize=90&fontColor=111111)
 
 <hr/>
 
