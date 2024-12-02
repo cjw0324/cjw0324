@@ -19,8 +19,8 @@
 | -------------- | ------------------------------ | -------------------------------- | --------------------------------------------------------- | ------------- |
 | 23.09 ~ 23.12  | 티맥스티베로 - TABA 4기 수료       | Campshare - 캠핑용품대여플랫폼    | [TABA4-9](https://github.com/TABA4-9)                     | BE            |
 | 24.01 ~ 24.09  | 단국대학교 캡스톤디자인1            | FindME - 분실물찾기서비스         | [FindME-CapstoneDesign1](https://github.com/FindME-CapstoneDesign1) | PM, FE    |
-| 24.10          | Toy Project                    | LoadBalancer 구현                | [DistributedSystem](https://github.com/cjw0324/DistributedSystem) | BE            |
-| 24.11          | Toy Project                    | 쇼핑몰 사이트 구현                | [WantedMarket](https://github.com/cjw0324/wanted-preonboarding-challenge-backend-26/tree/feature/jaewoo-choi) | BE       |
+| 24.10          | Toy Project                   | LoadBalancer 구현                | [DistributedSystem](https://github.com/cjw0324/DistributedSystem) | BE            |
+| 24.11          | Wanted PreOnboarding          | 실제 트랜잭션을 구현한 거래플랫폼                | [WantedMarket](https://github.com/cjw0324/wanted-preonboarding-challenge-backend-26/tree/feature/jaewoo-choi) | BE       |
 
 <hr/>
 
