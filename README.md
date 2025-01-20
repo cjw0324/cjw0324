@@ -1,6 +1,6 @@
 <div align='center' style='background-color: #ffffff;'>
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=Jaewoo's%20GitHub&fontSize=90&fontColor=66FF33)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=Jaewoo's%20GitHub&fontSize=90&fontColor=003399)
 
 <hr/>
 
