@@ -21,6 +21,7 @@
 | 24.01 ~ 24.09  | 단국대학교 캡스톤디자인1            | FindME - 분실물찾기서비스         | [FindME-CapstoneDesign1](https://github.com/FindME-CapstoneDesign1) | PM, BE    |
 | 24.10          | Toy Project                   | LoadBalancer 구현                | [DistributedSystem](https://github.com/cjw0324/DistributedSystem) | BE            |
 | 24.11          | Wanted PreOnboarding          | 실제 트랜잭션을 구현한 거래플랫폼                | [WantedMarket](https://github.com/cjw0324/wanted-preonboarding-challenge-backend-26/tree/feature/jaewoo-choi) | BE       |
+| 25.02          | Programmers DevCourse BE      | 카페 메뉴 관리 서비스 : 거래 상황에 대한 동시성 이슈 제어  | [Cafe-Team09](https://github.com/prgrms-be-devcourse/NBE4-5-1-Team09) | BE       |
 
 <hr/>
 
