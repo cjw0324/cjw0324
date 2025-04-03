@@ -23,6 +23,7 @@
 | 24.11          | Wanted PreOnboarding          | 실제 트랜잭션을 구현한 거래플랫폼                | [WantedMarket](https://github.com/cjw0324/wanted-preonboarding-challenge-backend-26/tree/feature/jaewoo-choi) | BE       |
 | 25.02          | Programmers DevCourse BE      | 카페 메뉴 관리 서비스 : 거래 상황에 대한 동시성 이슈 제어  | [Cafe-Team09](https://github.com/prgrms-be-devcourse/NBE4-5-1-Team09) | BE       |
 | 25.03          | Programmers DevCourse BE      | 개발자 기술 면접 대비 학습 서비스 : JPA 최적화로 다중 사용자 REST API 응답 지연 최소화   | [Team07](https://github.com/prgrms-be-devcourse/NBE4-5-2-Team07) | BE       |
+| 25.04          | Toy Project      | GitHub Action 을 통한 CI/CD 서비스 제작  | [https://www.jaewoo.site](https://github.com/cjw0324/jaewoo.site-ToyProject) | BE, FE    |
 
 <hr/>
 
