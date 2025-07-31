@@ -63,4 +63,8 @@
 
 </div>
 
+---
+![Programmers Badge](https://raw.githubusercontent.com/cjw0324/Programmers_Badge_Generator/main/result/result.svg)
+---
+
 ![snake gif](https://github.com/cjw0324/cjw0324/blob/output/github-contribution-grid-snake.svg)
