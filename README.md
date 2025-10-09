@@ -20,15 +20,15 @@
 
 | When           | Where                          | What                             | GitHub Link                                               | Role          |
 | -------------- | ------------------------------ | -------------------------------- | --------------------------------------------------------- | ------------- |
-| 23.09 ~ 23.12  | 티맥스티베로 - TABA 4기 수료       | Campshare - 캠핑용품대여플랫폼    | [TABA4-9](https://github.com/TABA4-9)                     | BE            |
+| 23.09 ~ 23.12  | 티맥스티베로 - TABA      | Campshare - 캠핑용품대여플랫폼    | [TABA4-9](https://github.com/TABA4-9)                     | BE            |
 | 24.01 ~ 24.09  | 단국대학교 캡스톤디자인1            | FindME - 분실물찾기서비스         | [FindME-CapstoneDesign1](https://github.com/FindME-CapstoneDesign1) | PM, BE    |
 | 24.10          | Toy Project                   | LoadBalancer 구현                | [DistributedSystem](https://github.com/cjw0324/DistributedSystem) | BE            |
 | 24.11          | Wanted PreOnboarding          | 실제 트랜잭션을 구현한 거래플랫폼                | [WantedMarket](https://github.com/cjw0324/wanted-preonboarding-challenge-backend-26/tree/feature/jaewoo-choi) | BE       |
-| 25.02          | Programmers DevCourse BE      | 카페 메뉴 관리 서비스 : 거래 상황에 대한 동시성 이슈 제어  | [CodeBrew](https://github.com/prgrms-be-devcourse/NBE4-5-1-Team09) | BE       |
-| 25.03          | Programmers DevCourse BE      | 개발자 기술 면접 대비 학습 서비스 : JPA 최적화로 다중 사용자 REST API 응답 지연 최소화   | [DevPrep v1](https://github.com/prgrms-be-devcourse/NBE4-5-2-Team07) | BE       |
+| 25.02          | DevCourse BE      | 카페 메뉴 관리 서비스 : 거래 상황에 대한 동시성 이슈 제어  | [CodeBrew](https://github.com/prgrms-be-devcourse/NBE4-5-1-Team09) | BE       |
+| 25.03          | DevCourse BE      | 개발자 기술 면접 대비 학습 서비스 : JPA 최적화로 다중 사용자 REST API 응답 지연 최소화   | [DevPrep v1](https://github.com/prgrms-be-devcourse/NBE4-5-2-Team07) | BE       |
 | 25.04 ~        | Toy Project      | SNS Clone Project : Kafka, Redis PUB/SUB 을 활용한 비동기 메시징 처리  | [jaewoo web service](https://github.com/cjw0324/jaewoo.site-ToyProject) | BE, FE    |
-| 25.04          | Programmers DevCourse BE      | 개발자 기술 면접 대비 학습 서비스 : Java to Kotlin migration & Github Action CI/CD | [DevPrep v2](https://github.com/cjw0324/DevPrep) | BE       |
-| 25.04.21 ~ 06  | Programmers DevCourse BE      | 티켓팅 B2B SaaS 플랫폼 : 대규모 사용자 환경의 트래픽 처리 | [TicketON](https://github.com/prgrms-web-devcourse-final-project/WEB4_5_CodeNBug_BE/tree/develop) | PO, BE       |
+| 25.04          | DevCourse BE      | 개발자 기술 면접 대비 학습 서비스 : Java to Kotlin migration & Github Action CI/CD | [DevPrep v2](https://github.com/cjw0324/DevPrep) | BE       |
+| 25.04.21 ~ 06  | DevCourse BE      | 티켓팅 B2B SaaS 플랫폼 : 대규모 사용자 환경의 트래픽 처리 | [TicketON](https://github.com/prgrms-web-devcourse-final-project/WEB4_5_CodeNBug_BE/tree/develop) | PO, BE       |
 
 <hr/>
 
