@@ -28,7 +28,8 @@
 | 25.03          | DevCourse BE      | 개발자 기술 면접 대비 학습 서비스 : JPA 최적화로 다중 사용자 REST API 응답 지연 최소화   | [DevPrep v1](https://github.com/prgrms-be-devcourse/NBE4-5-2-Team07) | BE       |
 | 25.04 ~        | Toy Project      | SNS Clone Project : Kafka, Redis PUB/SUB 을 활용한 비동기 메시징 처리  | [jaewoo web service](https://github.com/cjw0324/jaewoo.site-ToyProject) | BE, FE    |
 | 25.04          | DevCourse BE      | 개발자 기술 면접 대비 학습 서비스 : Java to Kotlin migration & Github Action CI/CD | [DevPrep v2](https://github.com/cjw0324/DevPrep) | BE       |
-| 25.04.21 ~ 06  | DevCourse BE      | 티켓팅 B2B SaaS 플랫폼 : 대규모 사용자 환경의 트래픽 처리 | [TicketON](https://github.com/prgrms-web-devcourse-final-project/WEB4_5_CodeNBug_BE/tree/develop) | PO, BE       |
+| 25.04.21 ~ 06  | DevCourse BE      | 티켓팅 B2B SaaS 플랫폼 : 대규모 사용자 환경의 트래픽 처리 | [TicketON](https://github.com/cjw0324/TicketON_BE) | PO, BE       |
+
 
 <hr/>
 
